@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">List View Git Hub Users</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="cant_seguidores">Cantidad Seguidores</string>
+    <string name="cant_repos">Cantidad Repositorios</string>
+</resources>
